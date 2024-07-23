@@ -1,0 +1,2 @@
+c="jaya"
+type(c)
